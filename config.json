@@ -1,0 +1,10 @@
+{
+  "Port": 12345,
+  "ServerAddress": "192.168.1.14",
+  "ServerMode": true,
+  "SyncCursorInterval": 50,
+  "SyncCursorHotkey": "F9",
+  "ShowCursorOverlay": false,
+  "CursorOverlayHotkey" :  "F10",
+  "CursorOverlayInterval": 10
+}
